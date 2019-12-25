@@ -7,3 +7,6 @@ This project will be a simple taking Note App by using
 3. MVVM stands for Model, View, ViewModel.
 4. The data will be stored in an SQLite database and supports insert, read, update and delete operations.
 5. Move from RecyclerView.Adapter to a ListAdapter & DiffUtil.ItemCallBack
+
+It will be an code experiment after watching playlist from Code flow channel:
+https://www.youtube.com/playlist?list=PLrnPJCHvNZuDihTpkRs6SpZhqgBqPU118
