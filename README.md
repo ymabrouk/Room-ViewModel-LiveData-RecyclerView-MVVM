@@ -1,6 +1,6 @@
 # Room-ViewModel-LiveData-RecyclerView-MVVM
 
-This project will be a simple taking Note App by using
+This project is a simple taking Note App by using
 
 1. Kotlin
 2. Room and Lifecycle dependencie
